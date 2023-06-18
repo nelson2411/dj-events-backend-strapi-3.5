@@ -11,6 +11,9 @@ module.exports = ({ env }) => ({
       upload: {},
       delete: {},
     },
+    params: {
+      folder: "events-web",
+    },
   },
   // ...
 });
